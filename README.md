@@ -53,3 +53,5 @@ cd SpendSavvy
 ```javascript
 npm install
 ```
+
+to be contineou
